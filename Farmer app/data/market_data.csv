@@ -1,0 +1,571 @@
+crop,market,price,date,demand,weather,location
+Tomato,Azadpur Mandi,25,2026-03-01,High,Clear,Delhi
+Tomato,Azadpur Mandi,27,2026-03-02,High,Clear,Delhi
+Tomato,Azadpur Mandi,24,2026-03-03,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,28,2026-03-04,High,Clear,Delhi
+Tomato,Azadpur Mandi,30,2026-03-05,High,Clear,Delhi
+Tomato,Azadpur Mandi,26,2026-03-06,Medium,Rain,Delhi
+Tomato,Azadpur Mandi,22,2026-03-07,Low,Rain,Delhi
+Tomato,Azadpur Mandi,29,2026-03-08,High,Clear,Delhi
+Tomato,Azadpur Mandi,31,2026-03-09,High,Clear,Delhi
+Tomato,Azadpur Mandi,33,2026-03-10,High,Clear,Delhi
+Tomato,Azadpur Mandi,30,2026-03-11,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,28,2026-03-12,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,35,2026-03-13,High,Clear,Delhi
+Tomato,Azadpur Mandi,32,2026-03-14,High,Clear,Delhi
+Tomato,Azadpur Mandi,29,2026-03-15,Medium,Rain,Delhi
+Tomato,Azadpur Mandi,27,2026-03-16,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,34,2026-03-17,High,Clear,Delhi
+Tomato,Azadpur Mandi,36,2026-03-18,High,Clear,Delhi
+Tomato,Azadpur Mandi,33,2026-03-19,High,Clear,Delhi
+Tomato,Azadpur Mandi,31,2026-03-20,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,28,2026-03-21,Medium,Rain,Delhi
+Tomato,Azadpur Mandi,35,2026-03-22,High,Clear,Delhi
+Tomato,Azadpur Mandi,37,2026-03-23,High,Clear,Delhi
+Tomato,Azadpur Mandi,34,2026-03-24,High,Clear,Delhi
+Tomato,Azadpur Mandi,32,2026-03-25,Medium,Cloudy,Delhi
+Tomato,Azadpur Mandi,30,2026-03-26,Medium,Rain,Delhi
+Tomato,Azadpur Mandi,36,2026-03-27,High,Clear,Delhi
+Tomato,Azadpur Mandi,38,2026-03-28,High,Clear,Delhi
+Tomato,Azadpur Mandi,35,2026-03-29,High,Clear,Delhi
+Tomato,Azadpur Mandi,33,2026-03-30,Medium,Cloudy,Delhi
+Tomato,Vashi Market,22,2026-03-01,Medium,Clear,Mumbai
+Tomato,Vashi Market,24,2026-03-02,Medium,Clear,Mumbai
+Tomato,Vashi Market,21,2026-03-03,Low,Cloudy,Mumbai
+Tomato,Vashi Market,26,2026-03-04,High,Clear,Mumbai
+Tomato,Vashi Market,28,2026-03-05,High,Clear,Mumbai
+Tomato,Vashi Market,23,2026-03-06,Medium,Rain,Mumbai
+Tomato,Vashi Market,20,2026-03-07,Low,Rain,Mumbai
+Tomato,Vashi Market,27,2026-03-08,High,Clear,Mumbai
+Tomato,Vashi Market,29,2026-03-09,High,Clear,Mumbai
+Tomato,Vashi Market,31,2026-03-10,High,Clear,Mumbai
+Tomato,Vashi Market,28,2026-03-11,Medium,Cloudy,Mumbai
+Tomato,Vashi Market,26,2026-03-12,Medium,Cloudy,Mumbai
+Tomato,Vashi Market,33,2026-03-13,High,Clear,Mumbai
+Tomato,Vashi Market,30,2026-03-14,High,Clear,Mumbai
+Tomato,Vashi Market,27,2026-03-15,Medium,Rain,Mumbai
+Tomato,Vashi Market,25,2026-03-16,Medium,Cloudy,Mumbai
+Tomato,Vashi Market,32,2026-03-17,High,Clear,Mumbai
+Tomato,Vashi Market,34,2026-03-18,High,Clear,Mumbai
+Tomato,Vashi Market,31,2026-03-19,High,Clear,Mumbai
+Tomato,Vashi Market,29,2026-03-20,Medium,Cloudy,Mumbai
+Tomato,Vashi Market,26,2026-03-21,Medium,Rain,Mumbai
+Tomato,Vashi Market,33,2026-03-22,High,Clear,Mumbai
+Tomato,Vashi Market,35,2026-03-23,High,Clear,Mumbai
+Tomato,Vashi Market,32,2026-03-24,High,Clear,Mumbai
+Tomato,Vashi Market,30,2026-03-25,Medium,Cloudy,Mumbai
+Tomato,Vashi Market,28,2026-03-26,Medium,Rain,Mumbai
+Tomato,Vashi Market,34,2026-03-27,High,Clear,Mumbai
+Tomato,Vashi Market,36,2026-03-28,High,Clear,Mumbai
+Tomato,Vashi Market,33,2026-03-29,High,Clear,Mumbai
+Tomato,Vashi Market,31,2026-03-30,Medium,Cloudy,Mumbai
+Tomato,Koyambedu Market,20,2026-03-01,Medium,Clear,Chennai
+Tomato,Koyambedu Market,22,2026-03-02,Medium,Clear,Chennai
+Tomato,Koyambedu Market,19,2026-03-03,Low,Cloudy,Chennai
+Tomato,Koyambedu Market,24,2026-03-04,High,Clear,Chennai
+Tomato,Koyambedu Market,26,2026-03-05,High,Clear,Chennai
+Tomato,Koyambedu Market,21,2026-03-06,Medium,Rain,Chennai
+Tomato,Koyambedu Market,18,2026-03-07,Low,Rain,Chennai
+Tomato,Koyambedu Market,25,2026-03-08,High,Clear,Chennai
+Tomato,Koyambedu Market,27,2026-03-09,High,Clear,Chennai
+Tomato,Koyambedu Market,29,2026-03-10,High,Clear,Chennai
+Tomato,Koyambedu Market,26,2026-03-11,Medium,Cloudy,Chennai
+Tomato,Koyambedu Market,24,2026-03-12,Medium,Cloudy,Chennai
+Tomato,Koyambedu Market,31,2026-03-13,High,Clear,Chennai
+Tomato,Koyambedu Market,28,2026-03-14,High,Clear,Chennai
+Tomato,Koyambedu Market,25,2026-03-15,Medium,Rain,Chennai
+Tomato,Koyambedu Market,23,2026-03-16,Medium,Cloudy,Chennai
+Tomato,Koyambedu Market,30,2026-03-17,High,Clear,Chennai
+Tomato,Koyambedu Market,32,2026-03-18,High,Clear,Chennai
+Tomato,Koyambedu Market,29,2026-03-19,High,Clear,Chennai
+Tomato,Koyambedu Market,27,2026-03-20,Medium,Cloudy,Chennai
+Tomato,Koyambedu Market,24,2026-03-21,Medium,Rain,Chennai
+Tomato,Koyambedu Market,31,2026-03-22,High,Clear,Chennai
+Tomato,Koyambedu Market,33,2026-03-23,High,Clear,Chennai
+Tomato,Koyambedu Market,30,2026-03-24,High,Clear,Chennai
+Tomato,Koyambedu Market,28,2026-03-25,Medium,Cloudy,Chennai
+Tomato,Koyambedu Market,26,2026-03-26,Medium,Rain,Chennai
+Tomato,Koyambedu Market,32,2026-03-27,High,Clear,Chennai
+Tomato,Koyambedu Market,34,2026-03-28,High,Clear,Chennai
+Tomato,Koyambedu Market,31,2026-03-29,High,Clear,Chennai
+Tomato,Koyambedu Market,29,2026-03-30,Medium,Cloudy,Chennai
+Tomato,Madanapalle Market,28,2026-03-01,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,30,2026-03-02,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,27,2026-03-03,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,32,2026-03-04,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,34,2026-03-05,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,29,2026-03-06,Medium,Rain,Andhra Pradesh
+Tomato,Madanapalle Market,25,2026-03-07,Low,Rain,Andhra Pradesh
+Tomato,Madanapalle Market,33,2026-03-08,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,35,2026-03-09,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,37,2026-03-10,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,34,2026-03-11,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,32,2026-03-12,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,39,2026-03-13,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,36,2026-03-14,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,33,2026-03-15,Medium,Rain,Andhra Pradesh
+Tomato,Madanapalle Market,31,2026-03-16,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,38,2026-03-17,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,40,2026-03-18,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,37,2026-03-19,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,35,2026-03-20,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,32,2026-03-21,Medium,Rain,Andhra Pradesh
+Tomato,Madanapalle Market,39,2026-03-22,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,41,2026-03-23,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,38,2026-03-24,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,36,2026-03-25,Medium,Cloudy,Andhra Pradesh
+Tomato,Madanapalle Market,34,2026-03-26,Medium,Rain,Andhra Pradesh
+Tomato,Madanapalle Market,40,2026-03-27,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,42,2026-03-28,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,39,2026-03-29,High,Clear,Andhra Pradesh
+Tomato,Madanapalle Market,37,2026-03-30,Medium,Cloudy,Andhra Pradesh
+Onion,Lasalgaon Market,15,2026-03-01,Medium,Clear,Maharashtra
+Onion,Lasalgaon Market,17,2026-03-02,Medium,Clear,Maharashtra
+Onion,Lasalgaon Market,14,2026-03-03,Low,Cloudy,Maharashtra
+Onion,Lasalgaon Market,19,2026-03-04,High,Clear,Maharashtra
+Onion,Lasalgaon Market,21,2026-03-05,High,Clear,Maharashtra
+Onion,Lasalgaon Market,16,2026-03-06,Medium,Rain,Maharashtra
+Onion,Lasalgaon Market,13,2026-03-07,Low,Rain,Maharashtra
+Onion,Lasalgaon Market,20,2026-03-08,High,Clear,Maharashtra
+Onion,Lasalgaon Market,22,2026-03-09,High,Clear,Maharashtra
+Onion,Lasalgaon Market,24,2026-03-10,High,Clear,Maharashtra
+Onion,Lasalgaon Market,21,2026-03-11,Medium,Cloudy,Maharashtra
+Onion,Lasalgaon Market,19,2026-03-12,Medium,Cloudy,Maharashtra
+Onion,Lasalgaon Market,26,2026-03-13,High,Clear,Maharashtra
+Onion,Lasalgaon Market,23,2026-03-14,High,Clear,Maharashtra
+Onion,Lasalgaon Market,20,2026-03-15,Medium,Rain,Maharashtra
+Onion,Lasalgaon Market,18,2026-03-16,Medium,Cloudy,Maharashtra
+Onion,Lasalgaon Market,25,2026-03-17,High,Clear,Maharashtra
+Onion,Lasalgaon Market,27,2026-03-18,High,Clear,Maharashtra
+Onion,Lasalgaon Market,24,2026-03-19,High,Clear,Maharashtra
+Onion,Lasalgaon Market,22,2026-03-20,Medium,Cloudy,Maharashtra
+Onion,Lasalgaon Market,19,2026-03-21,Medium,Rain,Maharashtra
+Onion,Lasalgaon Market,26,2026-03-22,High,Clear,Maharashtra
+Onion,Lasalgaon Market,28,2026-03-23,High,Clear,Maharashtra
+Onion,Lasalgaon Market,25,2026-03-24,High,Clear,Maharashtra
+Onion,Lasalgaon Market,23,2026-03-25,Medium,Cloudy,Maharashtra
+Onion,Lasalgaon Market,21,2026-03-26,Medium,Rain,Maharashtra
+Onion,Lasalgaon Market,27,2026-03-27,High,Clear,Maharashtra
+Onion,Lasalgaon Market,29,2026-03-28,High,Clear,Maharashtra
+Onion,Lasalgaon Market,26,2026-03-29,High,Clear,Maharashtra
+Onion,Lasalgaon Market,24,2026-03-30,Medium,Cloudy,Maharashtra
+Onion,Azadpur Mandi,18,2026-03-01,Medium,Clear,Delhi
+Onion,Azadpur Mandi,20,2026-03-02,Medium,Clear,Delhi
+Onion,Azadpur Mandi,17,2026-03-03,Low,Cloudy,Delhi
+Onion,Azadpur Mandi,22,2026-03-04,High,Clear,Delhi
+Onion,Azadpur Mandi,24,2026-03-05,High,Clear,Delhi
+Onion,Azadpur Mandi,19,2026-03-06,Medium,Rain,Delhi
+Onion,Azadpur Mandi,16,2026-03-07,Low,Rain,Delhi
+Onion,Azadpur Mandi,23,2026-03-08,High,Clear,Delhi
+Onion,Azadpur Mandi,25,2026-03-09,High,Clear,Delhi
+Onion,Azadpur Mandi,27,2026-03-10,High,Clear,Delhi
+Onion,Azadpur Mandi,24,2026-03-11,Medium,Cloudy,Delhi
+Onion,Azadpur Mandi,22,2026-03-12,Medium,Cloudy,Delhi
+Onion,Azadpur Mandi,29,2026-03-13,High,Clear,Delhi
+Onion,Azadpur Mandi,26,2026-03-14,High,Clear,Delhi
+Onion,Azadpur Mandi,23,2026-03-15,Medium,Rain,Delhi
+Onion,Azadpur Mandi,21,2026-03-16,Medium,Cloudy,Delhi
+Onion,Azadpur Mandi,28,2026-03-17,High,Clear,Delhi
+Onion,Azadpur Mandi,30,2026-03-18,High,Clear,Delhi
+Onion,Azadpur Mandi,27,2026-03-19,High,Clear,Delhi
+Onion,Azadpur Mandi,25,2026-03-20,Medium,Cloudy,Delhi
+Onion,Azadpur Mandi,22,2026-03-21,Medium,Rain,Delhi
+Onion,Azadpur Mandi,29,2026-03-22,High,Clear,Delhi
+Onion,Azadpur Mandi,31,2026-03-23,High,Clear,Delhi
+Onion,Azadpur Mandi,28,2026-03-24,High,Clear,Delhi
+Onion,Azadpur Mandi,26,2026-03-25,Medium,Cloudy,Delhi
+Onion,Azadpur Mandi,24,2026-03-26,Medium,Rain,Delhi
+Onion,Azadpur Mandi,30,2026-03-27,High,Clear,Delhi
+Onion,Azadpur Mandi,32,2026-03-28,High,Clear,Delhi
+Onion,Azadpur Mandi,29,2026-03-29,High,Clear,Delhi
+Onion,Azadpur Mandi,27,2026-03-30,Medium,Cloudy,Delhi
+Onion,Koyambedu Market,16,2026-03-01,Medium,Clear,Chennai
+Onion,Koyambedu Market,18,2026-03-02,Medium,Clear,Chennai
+Onion,Koyambedu Market,15,2026-03-03,Low,Cloudy,Chennai
+Onion,Koyambedu Market,20,2026-03-04,High,Clear,Chennai
+Onion,Koyambedu Market,22,2026-03-05,High,Clear,Chennai
+Onion,Koyambedu Market,17,2026-03-06,Medium,Rain,Chennai
+Onion,Koyambedu Market,14,2026-03-07,Low,Rain,Chennai
+Onion,Koyambedu Market,21,2026-03-08,High,Clear,Chennai
+Onion,Koyambedu Market,23,2026-03-09,High,Clear,Chennai
+Onion,Koyambedu Market,25,2026-03-10,High,Clear,Chennai
+Onion,Koyambedu Market,22,2026-03-11,Medium,Cloudy,Chennai
+Onion,Koyambedu Market,20,2026-03-12,Medium,Cloudy,Chennai
+Onion,Koyambedu Market,27,2026-03-13,High,Clear,Chennai
+Onion,Koyambedu Market,24,2026-03-14,High,Clear,Chennai
+Onion,Koyambedu Market,21,2026-03-15,Medium,Rain,Chennai
+Onion,Koyambedu Market,19,2026-03-16,Medium,Cloudy,Chennai
+Onion,Koyambedu Market,26,2026-03-17,High,Clear,Chennai
+Onion,Koyambedu Market,28,2026-03-18,High,Clear,Chennai
+Onion,Koyambedu Market,25,2026-03-19,High,Clear,Chennai
+Onion,Koyambedu Market,23,2026-03-20,Medium,Cloudy,Chennai
+Onion,Koyambedu Market,20,2026-03-21,Medium,Rain,Chennai
+Onion,Koyambedu Market,27,2026-03-22,High,Clear,Chennai
+Onion,Koyambedu Market,29,2026-03-23,High,Clear,Chennai
+Onion,Koyambedu Market,26,2026-03-24,High,Clear,Chennai
+Onion,Koyambedu Market,24,2026-03-25,Medium,Cloudy,Chennai
+Onion,Koyambedu Market,22,2026-03-26,Medium,Rain,Chennai
+Onion,Koyambedu Market,28,2026-03-27,High,Clear,Chennai
+Onion,Koyambedu Market,30,2026-03-28,High,Clear,Chennai
+Onion,Koyambedu Market,27,2026-03-29,High,Clear,Chennai
+Onion,Koyambedu Market,25,2026-03-30,Medium,Cloudy,Chennai
+Rice,Azadpur Mandi,35,2026-03-01,High,Clear,Delhi
+Rice,Azadpur Mandi,36,2026-03-02,High,Clear,Delhi
+Rice,Azadpur Mandi,34,2026-03-03,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,37,2026-03-04,High,Clear,Delhi
+Rice,Azadpur Mandi,38,2026-03-05,High,Clear,Delhi
+Rice,Azadpur Mandi,35,2026-03-06,Medium,Rain,Delhi
+Rice,Azadpur Mandi,33,2026-03-07,Low,Rain,Delhi
+Rice,Azadpur Mandi,37,2026-03-08,High,Clear,Delhi
+Rice,Azadpur Mandi,39,2026-03-09,High,Clear,Delhi
+Rice,Azadpur Mandi,40,2026-03-10,High,Clear,Delhi
+Rice,Azadpur Mandi,38,2026-03-11,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,37,2026-03-12,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,41,2026-03-13,High,Clear,Delhi
+Rice,Azadpur Mandi,39,2026-03-14,High,Clear,Delhi
+Rice,Azadpur Mandi,36,2026-03-15,Medium,Rain,Delhi
+Rice,Azadpur Mandi,35,2026-03-16,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,40,2026-03-17,High,Clear,Delhi
+Rice,Azadpur Mandi,42,2026-03-18,High,Clear,Delhi
+Rice,Azadpur Mandi,39,2026-03-19,High,Clear,Delhi
+Rice,Azadpur Mandi,38,2026-03-20,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,36,2026-03-21,Medium,Rain,Delhi
+Rice,Azadpur Mandi,41,2026-03-22,High,Clear,Delhi
+Rice,Azadpur Mandi,43,2026-03-23,High,Clear,Delhi
+Rice,Azadpur Mandi,40,2026-03-24,High,Clear,Delhi
+Rice,Azadpur Mandi,38,2026-03-25,Medium,Cloudy,Delhi
+Rice,Azadpur Mandi,37,2026-03-26,Medium,Rain,Delhi
+Rice,Azadpur Mandi,42,2026-03-27,High,Clear,Delhi
+Rice,Azadpur Mandi,44,2026-03-28,High,Clear,Delhi
+Rice,Azadpur Mandi,41,2026-03-29,High,Clear,Delhi
+Rice,Azadpur Mandi,39,2026-03-30,Medium,Cloudy,Delhi
+Rice,Koyambedu Market,32,2026-03-01,High,Clear,Chennai
+Rice,Koyambedu Market,33,2026-03-02,High,Clear,Chennai
+Rice,Koyambedu Market,31,2026-03-03,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,34,2026-03-04,High,Clear,Chennai
+Rice,Koyambedu Market,35,2026-03-05,High,Clear,Chennai
+Rice,Koyambedu Market,32,2026-03-06,Medium,Rain,Chennai
+Rice,Koyambedu Market,30,2026-03-07,Low,Rain,Chennai
+Rice,Koyambedu Market,34,2026-03-08,High,Clear,Chennai
+Rice,Koyambedu Market,36,2026-03-09,High,Clear,Chennai
+Rice,Koyambedu Market,37,2026-03-10,High,Clear,Chennai
+Rice,Koyambedu Market,35,2026-03-11,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,34,2026-03-12,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,38,2026-03-13,High,Clear,Chennai
+Rice,Koyambedu Market,36,2026-03-14,High,Clear,Chennai
+Rice,Koyambedu Market,33,2026-03-15,Medium,Rain,Chennai
+Rice,Koyambedu Market,32,2026-03-16,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,37,2026-03-17,High,Clear,Chennai
+Rice,Koyambedu Market,39,2026-03-18,High,Clear,Chennai
+Rice,Koyambedu Market,36,2026-03-19,High,Clear,Chennai
+Rice,Koyambedu Market,35,2026-03-20,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,33,2026-03-21,Medium,Rain,Chennai
+Rice,Koyambedu Market,38,2026-03-22,High,Clear,Chennai
+Rice,Koyambedu Market,40,2026-03-23,High,Clear,Chennai
+Rice,Koyambedu Market,37,2026-03-24,High,Clear,Chennai
+Rice,Koyambedu Market,35,2026-03-25,Medium,Cloudy,Chennai
+Rice,Koyambedu Market,34,2026-03-26,Medium,Rain,Chennai
+Rice,Koyambedu Market,39,2026-03-27,High,Clear,Chennai
+Rice,Koyambedu Market,41,2026-03-28,High,Clear,Chennai
+Rice,Koyambedu Market,38,2026-03-29,High,Clear,Chennai
+Rice,Koyambedu Market,36,2026-03-30,Medium,Cloudy,Chennai
+Rice,Vashi Market,33,2026-03-01,High,Clear,Mumbai
+Rice,Vashi Market,34,2026-03-02,High,Clear,Mumbai
+Rice,Vashi Market,32,2026-03-03,Medium,Cloudy,Mumbai
+Rice,Vashi Market,35,2026-03-04,High,Clear,Mumbai
+Rice,Vashi Market,36,2026-03-05,High,Clear,Mumbai
+Rice,Vashi Market,33,2026-03-06,Medium,Rain,Mumbai
+Rice,Vashi Market,31,2026-03-07,Low,Rain,Mumbai
+Rice,Vashi Market,35,2026-03-08,High,Clear,Mumbai
+Rice,Vashi Market,37,2026-03-09,High,Clear,Mumbai
+Rice,Vashi Market,38,2026-03-10,High,Clear,Mumbai
+Rice,Vashi Market,36,2026-03-11,Medium,Cloudy,Mumbai
+Rice,Vashi Market,35,2026-03-12,Medium,Cloudy,Mumbai
+Rice,Vashi Market,39,2026-03-13,High,Clear,Mumbai
+Rice,Vashi Market,37,2026-03-14,High,Clear,Mumbai
+Rice,Vashi Market,34,2026-03-15,Medium,Rain,Mumbai
+Rice,Vashi Market,33,2026-03-16,Medium,Cloudy,Mumbai
+Rice,Vashi Market,38,2026-03-17,High,Clear,Mumbai
+Rice,Vashi Market,40,2026-03-18,High,Clear,Mumbai
+Rice,Vashi Market,37,2026-03-19,High,Clear,Mumbai
+Rice,Vashi Market,36,2026-03-20,Medium,Cloudy,Mumbai
+Rice,Vashi Market,34,2026-03-21,Medium,Rain,Mumbai
+Rice,Vashi Market,39,2026-03-22,High,Clear,Mumbai
+Rice,Vashi Market,41,2026-03-23,High,Clear,Mumbai
+Rice,Vashi Market,38,2026-03-24,High,Clear,Mumbai
+Rice,Vashi Market,36,2026-03-25,Medium,Cloudy,Mumbai
+Rice,Vashi Market,35,2026-03-26,Medium,Rain,Mumbai
+Rice,Vashi Market,40,2026-03-27,High,Clear,Mumbai
+Rice,Vashi Market,42,2026-03-28,High,Clear,Mumbai
+Rice,Vashi Market,39,2026-03-29,High,Clear,Mumbai
+Rice,Vashi Market,37,2026-03-30,Medium,Cloudy,Mumbai
+Wheat,Azadpur Mandi,28,2026-03-01,Medium,Clear,Delhi
+Wheat,Azadpur Mandi,29,2026-03-02,Medium,Clear,Delhi
+Wheat,Azadpur Mandi,27,2026-03-03,Low,Cloudy,Delhi
+Wheat,Azadpur Mandi,30,2026-03-04,High,Clear,Delhi
+Wheat,Azadpur Mandi,31,2026-03-05,High,Clear,Delhi
+Wheat,Azadpur Mandi,28,2026-03-06,Medium,Rain,Delhi
+Wheat,Azadpur Mandi,26,2026-03-07,Low,Rain,Delhi
+Wheat,Azadpur Mandi,30,2026-03-08,High,Clear,Delhi
+Wheat,Azadpur Mandi,32,2026-03-09,High,Clear,Delhi
+Wheat,Azadpur Mandi,33,2026-03-10,High,Clear,Delhi
+Wheat,Azadpur Mandi,31,2026-03-11,Medium,Cloudy,Delhi
+Wheat,Azadpur Mandi,30,2026-03-12,Medium,Cloudy,Delhi
+Wheat,Azadpur Mandi,34,2026-03-13,High,Clear,Delhi
+Wheat,Azadpur Mandi,32,2026-03-14,High,Clear,Delhi
+Wheat,Azadpur Mandi,29,2026-03-15,Medium,Rain,Delhi
+Wheat,Azadpur Mandi,28,2026-03-16,Medium,Cloudy,Delhi
+Wheat,Azadpur Mandi,33,2026-03-17,High,Clear,Delhi
+Wheat,Azadpur Mandi,35,2026-03-18,High,Clear,Delhi
+Wheat,Azadpur Mandi,32,2026-03-19,High,Clear,Delhi
+Wheat,Azadpur Mandi,31,2026-03-20,Medium,Cloudy,Delhi
+Wheat,Azadpur Mandi,29,2026-03-21,Medium,Rain,Delhi
+Wheat,Azadpur Mandi,34,2026-03-22,High,Clear,Delhi
+Wheat,Azadpur Mandi,36,2026-03-23,High,Clear,Delhi
+Wheat,Azadpur Mandi,33,2026-03-24,High,Clear,Delhi
+Wheat,Azadpur Mandi,31,2026-03-25,Medium,Cloudy,Delhi
+Wheat,Azadpur Mandi,30,2026-03-26,Medium,Rain,Delhi
+Wheat,Azadpur Mandi,35,2026-03-27,High,Clear,Delhi
+Wheat,Azadpur Mandi,37,2026-03-28,High,Clear,Delhi
+Wheat,Azadpur Mandi,34,2026-03-29,High,Clear,Delhi
+Wheat,Azadpur Mandi,32,2026-03-30,Medium,Cloudy,Delhi
+Wheat,Vashi Market,26,2026-03-01,Medium,Clear,Mumbai
+Wheat,Vashi Market,27,2026-03-02,Medium,Clear,Mumbai
+Wheat,Vashi Market,25,2026-03-03,Low,Cloudy,Mumbai
+Wheat,Vashi Market,28,2026-03-04,High,Clear,Mumbai
+Wheat,Vashi Market,29,2026-03-05,High,Clear,Mumbai
+Wheat,Vashi Market,26,2026-03-06,Medium,Rain,Mumbai
+Wheat,Vashi Market,24,2026-03-07,Low,Rain,Mumbai
+Wheat,Vashi Market,28,2026-03-08,High,Clear,Mumbai
+Wheat,Vashi Market,30,2026-03-09,High,Clear,Mumbai
+Wheat,Vashi Market,31,2026-03-10,High,Clear,Mumbai
+Wheat,Vashi Market,29,2026-03-11,Medium,Cloudy,Mumbai
+Wheat,Vashi Market,28,2026-03-12,Medium,Cloudy,Mumbai
+Wheat,Vashi Market,32,2026-03-13,High,Clear,Mumbai
+Wheat,Vashi Market,30,2026-03-14,High,Clear,Mumbai
+Wheat,Vashi Market,27,2026-03-15,Medium,Rain,Mumbai
+Wheat,Vashi Market,26,2026-03-16,Medium,Cloudy,Mumbai
+Wheat,Vashi Market,31,2026-03-17,High,Clear,Mumbai
+Wheat,Vashi Market,33,2026-03-18,High,Clear,Mumbai
+Wheat,Vashi Market,30,2026-03-19,High,Clear,Mumbai
+Wheat,Vashi Market,29,2026-03-20,Medium,Cloudy,Mumbai
+Wheat,Vashi Market,27,2026-03-21,Medium,Rain,Mumbai
+Wheat,Vashi Market,32,2026-03-22,High,Clear,Mumbai
+Wheat,Vashi Market,34,2026-03-23,High,Clear,Mumbai
+Wheat,Vashi Market,31,2026-03-24,High,Clear,Mumbai
+Wheat,Vashi Market,29,2026-03-25,Medium,Cloudy,Mumbai
+Wheat,Vashi Market,28,2026-03-26,Medium,Rain,Mumbai
+Wheat,Vashi Market,33,2026-03-27,High,Clear,Mumbai
+Wheat,Vashi Market,35,2026-03-28,High,Clear,Mumbai
+Wheat,Vashi Market,32,2026-03-29,High,Clear,Mumbai
+Wheat,Vashi Market,30,2026-03-30,Medium,Cloudy,Mumbai
+Wheat,Koyambedu Market,25,2026-03-01,Medium,Clear,Chennai
+Wheat,Koyambedu Market,26,2026-03-02,Medium,Clear,Chennai
+Wheat,Koyambedu Market,24,2026-03-03,Low,Cloudy,Chennai
+Wheat,Koyambedu Market,27,2026-03-04,High,Clear,Chennai
+Wheat,Koyambedu Market,28,2026-03-05,High,Clear,Chennai
+Wheat,Koyambedu Market,25,2026-03-06,Medium,Rain,Chennai
+Wheat,Koyambedu Market,23,2026-03-07,Low,Rain,Chennai
+Wheat,Koyambedu Market,27,2026-03-08,High,Clear,Chennai
+Wheat,Koyambedu Market,29,2026-03-09,High,Clear,Chennai
+Wheat,Koyambedu Market,30,2026-03-10,High,Clear,Chennai
+Wheat,Koyambedu Market,28,2026-03-11,Medium,Cloudy,Chennai
+Wheat,Koyambedu Market,27,2026-03-12,Medium,Cloudy,Chennai
+Wheat,Koyambedu Market,31,2026-03-13,High,Clear,Chennai
+Wheat,Koyambedu Market,29,2026-03-14,High,Clear,Chennai
+Wheat,Koyambedu Market,26,2026-03-15,Medium,Rain,Chennai
+Wheat,Koyambedu Market,25,2026-03-16,Medium,Cloudy,Chennai
+Wheat,Koyambedu Market,30,2026-03-17,High,Clear,Chennai
+Wheat,Koyambedu Market,32,2026-03-18,High,Clear,Chennai
+Wheat,Koyambedu Market,29,2026-03-19,High,Clear,Chennai
+Wheat,Koyambedu Market,28,2026-03-20,Medium,Cloudy,Chennai
+Wheat,Koyambedu Market,26,2026-03-21,Medium,Rain,Chennai
+Wheat,Koyambedu Market,31,2026-03-22,High,Clear,Chennai
+Wheat,Koyambedu Market,33,2026-03-23,High,Clear,Chennai
+Wheat,Koyambedu Market,30,2026-03-24,High,Clear,Chennai
+Wheat,Koyambedu Market,28,2026-03-25,Medium,Cloudy,Chennai
+Wheat,Koyambedu Market,27,2026-03-26,Medium,Rain,Chennai
+Wheat,Koyambedu Market,32,2026-03-27,High,Clear,Chennai
+Wheat,Koyambedu Market,34,2026-03-28,High,Clear,Chennai
+Wheat,Koyambedu Market,31,2026-03-29,High,Clear,Chennai
+Wheat,Koyambedu Market,29,2026-03-30,Medium,Cloudy,Chennai
+Potato,Azadpur Mandi,18,2026-03-01,Medium,Clear,Delhi
+Potato,Azadpur Mandi,19,2026-03-02,Medium,Clear,Delhi
+Potato,Azadpur Mandi,17,2026-03-03,Low,Cloudy,Delhi
+Potato,Azadpur Mandi,20,2026-03-04,High,Clear,Delhi
+Potato,Azadpur Mandi,21,2026-03-05,High,Clear,Delhi
+Potato,Azadpur Mandi,18,2026-03-06,Medium,Rain,Delhi
+Potato,Azadpur Mandi,16,2026-03-07,Low,Rain,Delhi
+Potato,Azadpur Mandi,20,2026-03-08,High,Clear,Delhi
+Potato,Azadpur Mandi,22,2026-03-09,High,Clear,Delhi
+Potato,Azadpur Mandi,23,2026-03-10,High,Clear,Delhi
+Potato,Azadpur Mandi,21,2026-03-11,Medium,Cloudy,Delhi
+Potato,Azadpur Mandi,20,2026-03-12,Medium,Cloudy,Delhi
+Potato,Azadpur Mandi,24,2026-03-13,High,Clear,Delhi
+Potato,Azadpur Mandi,22,2026-03-14,High,Clear,Delhi
+Potato,Azadpur Mandi,19,2026-03-15,Medium,Rain,Delhi
+Potato,Azadpur Mandi,18,2026-03-16,Medium,Cloudy,Delhi
+Potato,Azadpur Mandi,23,2026-03-17,High,Clear,Delhi
+Potato,Azadpur Mandi,25,2026-03-18,High,Clear,Delhi
+Potato,Azadpur Mandi,22,2026-03-19,High,Clear,Delhi
+Potato,Azadpur Mandi,21,2026-03-20,Medium,Cloudy,Delhi
+Potato,Azadpur Mandi,19,2026-03-21,Medium,Rain,Delhi
+Potato,Azadpur Mandi,24,2026-03-22,High,Clear,Delhi
+Potato,Azadpur Mandi,26,2026-03-23,High,Clear,Delhi
+Potato,Azadpur Mandi,23,2026-03-24,High,Clear,Delhi
+Potato,Azadpur Mandi,21,2026-03-25,Medium,Cloudy,Delhi
+Potato,Azadpur Mandi,20,2026-03-26,Medium,Rain,Delhi
+Potato,Azadpur Mandi,25,2026-03-27,High,Clear,Delhi
+Potato,Azadpur Mandi,27,2026-03-28,High,Clear,Delhi
+Potato,Azadpur Mandi,24,2026-03-29,High,Clear,Delhi
+Potato,Azadpur Mandi,22,2026-03-30,Medium,Cloudy,Delhi
+Potato,Vashi Market,16,2026-03-01,Medium,Clear,Mumbai
+Potato,Vashi Market,17,2026-03-02,Medium,Clear,Mumbai
+Potato,Vashi Market,15,2026-03-03,Low,Cloudy,Mumbai
+Potato,Vashi Market,18,2026-03-04,High,Clear,Mumbai
+Potato,Vashi Market,19,2026-03-05,High,Clear,Mumbai
+Potato,Vashi Market,16,2026-03-06,Medium,Rain,Mumbai
+Potato,Vashi Market,14,2026-03-07,Low,Rain,Mumbai
+Potato,Vashi Market,18,2026-03-08,High,Clear,Mumbai
+Potato,Vashi Market,20,2026-03-09,High,Clear,Mumbai
+Potato,Vashi Market,21,2026-03-10,High,Clear,Mumbai
+Potato,Vashi Market,19,2026-03-11,Medium,Cloudy,Mumbai
+Potato,Vashi Market,18,2026-03-12,Medium,Cloudy,Mumbai
+Potato,Vashi Market,22,2026-03-13,High,Clear,Mumbai
+Potato,Vashi Market,20,2026-03-14,High,Clear,Mumbai
+Potato,Vashi Market,17,2026-03-15,Medium,Rain,Mumbai
+Potato,Vashi Market,16,2026-03-16,Medium,Cloudy,Mumbai
+Potato,Vashi Market,21,2026-03-17,High,Clear,Mumbai
+Potato,Vashi Market,23,2026-03-18,High,Clear,Mumbai
+Potato,Vashi Market,20,2026-03-19,High,Clear,Mumbai
+Potato,Vashi Market,19,2026-03-20,Medium,Cloudy,Mumbai
+Potato,Vashi Market,17,2026-03-21,Medium,Rain,Mumbai
+Potato,Vashi Market,22,2026-03-22,High,Clear,Mumbai
+Potato,Vashi Market,24,2026-03-23,High,Clear,Mumbai
+Potato,Vashi Market,21,2026-03-24,High,Clear,Mumbai
+Potato,Vashi Market,19,2026-03-25,Medium,Cloudy,Mumbai
+Potato,Vashi Market,18,2026-03-26,Medium,Rain,Mumbai
+Potato,Vashi Market,23,2026-03-27,High,Clear,Mumbai
+Potato,Vashi Market,25,2026-03-28,High,Clear,Mumbai
+Potato,Vashi Market,22,2026-03-29,High,Clear,Mumbai
+Potato,Vashi Market,20,2026-03-30,Medium,Cloudy,Mumbai
+Potato,Koyambedu Market,15,2026-03-01,Medium,Clear,Chennai
+Potato,Koyambedu Market,16,2026-03-02,Medium,Clear,Chennai
+Potato,Koyambedu Market,14,2026-03-03,Low,Cloudy,Chennai
+Potato,Koyambedu Market,17,2026-03-04,High,Clear,Chennai
+Potato,Koyambedu Market,18,2026-03-05,High,Clear,Chennai
+Potato,Koyambedu Market,15,2026-03-06,Medium,Rain,Chennai
+Potato,Koyambedu Market,13,2026-03-07,Low,Rain,Chennai
+Potato,Koyambedu Market,17,2026-03-08,High,Clear,Chennai
+Potato,Koyambedu Market,19,2026-03-09,High,Clear,Chennai
+Potato,Koyambedu Market,20,2026-03-10,High,Clear,Chennai
+Potato,Koyambedu Market,18,2026-03-11,Medium,Cloudy,Chennai
+Potato,Koyambedu Market,17,2026-03-12,Medium,Cloudy,Chennai
+Potato,Koyambedu Market,21,2026-03-13,High,Clear,Chennai
+Potato,Koyambedu Market,19,2026-03-14,High,Clear,Chennai
+Potato,Koyambedu Market,16,2026-03-15,Medium,Rain,Chennai
+Potato,Koyambedu Market,15,2026-03-16,Medium,Cloudy,Chennai
+Potato,Koyambedu Market,20,2026-03-17,High,Clear,Chennai
+Potato,Koyambedu Market,22,2026-03-18,High,Clear,Chennai
+Potato,Koyambedu Market,19,2026-03-19,High,Clear,Chennai
+Potato,Koyambedu Market,18,2026-03-20,Medium,Cloudy,Chennai
+Potato,Koyambedu Market,16,2026-03-21,Medium,Rain,Chennai
+Potato,Koyambedu Market,21,2026-03-22,High,Clear,Chennai
+Potato,Koyambedu Market,23,2026-03-23,High,Clear,Chennai
+Potato,Koyambedu Market,20,2026-03-24,High,Clear,Chennai
+Potato,Koyambedu Market,18,2026-03-25,Medium,Cloudy,Chennai
+Potato,Koyambedu Market,17,2026-03-26,Medium,Rain,Chennai
+Potato,Koyambedu Market,22,2026-03-27,High,Clear,Chennai
+Potato,Koyambedu Market,24,2026-03-28,High,Clear,Chennai
+Potato,Koyambedu Market,21,2026-03-29,High,Clear,Chennai
+Potato,Koyambedu Market,19,2026-03-30,Medium,Cloudy,Chennai
+Chili,Guntur Market,45,2026-03-01,High,Clear,Andhra Pradesh
+Chili,Guntur Market,47,2026-03-02,High,Clear,Andhra Pradesh
+Chili,Guntur Market,43,2026-03-03,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,49,2026-03-04,High,Clear,Andhra Pradesh
+Chili,Guntur Market,51,2026-03-05,High,Clear,Andhra Pradesh
+Chili,Guntur Market,46,2026-03-06,Medium,Rain,Andhra Pradesh
+Chili,Guntur Market,42,2026-03-07,Low,Rain,Andhra Pradesh
+Chili,Guntur Market,50,2026-03-08,High,Clear,Andhra Pradesh
+Chili,Guntur Market,52,2026-03-09,High,Clear,Andhra Pradesh
+Chili,Guntur Market,54,2026-03-10,High,Clear,Andhra Pradesh
+Chili,Guntur Market,51,2026-03-11,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,49,2026-03-12,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,56,2026-03-13,High,Clear,Andhra Pradesh
+Chili,Guntur Market,53,2026-03-14,High,Clear,Andhra Pradesh
+Chili,Guntur Market,50,2026-03-15,Medium,Rain,Andhra Pradesh
+Chili,Guntur Market,48,2026-03-16,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,55,2026-03-17,High,Clear,Andhra Pradesh
+Chili,Guntur Market,57,2026-03-18,High,Clear,Andhra Pradesh
+Chili,Guntur Market,54,2026-03-19,High,Clear,Andhra Pradesh
+Chili,Guntur Market,52,2026-03-20,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,49,2026-03-21,Medium,Rain,Andhra Pradesh
+Chili,Guntur Market,56,2026-03-22,High,Clear,Andhra Pradesh
+Chili,Guntur Market,58,2026-03-23,High,Clear,Andhra Pradesh
+Chili,Guntur Market,55,2026-03-24,High,Clear,Andhra Pradesh
+Chili,Guntur Market,53,2026-03-25,Medium,Cloudy,Andhra Pradesh
+Chili,Guntur Market,51,2026-03-26,Medium,Rain,Andhra Pradesh
+Chili,Guntur Market,57,2026-03-27,High,Clear,Andhra Pradesh
+Chili,Guntur Market,59,2026-03-28,High,Clear,Andhra Pradesh
+Chili,Guntur Market,56,2026-03-29,High,Clear,Andhra Pradesh
+Chili,Guntur Market,54,2026-03-30,Medium,Cloudy,Andhra Pradesh
+Chili,Azadpur Mandi,48,2026-03-01,High,Clear,Delhi
+Chili,Azadpur Mandi,50,2026-03-02,High,Clear,Delhi
+Chili,Azadpur Mandi,46,2026-03-03,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,52,2026-03-04,High,Clear,Delhi
+Chili,Azadpur Mandi,54,2026-03-05,High,Clear,Delhi
+Chili,Azadpur Mandi,49,2026-03-06,Medium,Rain,Delhi
+Chili,Azadpur Mandi,45,2026-03-07,Low,Rain,Delhi
+Chili,Azadpur Mandi,53,2026-03-08,High,Clear,Delhi
+Chili,Azadpur Mandi,55,2026-03-09,High,Clear,Delhi
+Chili,Azadpur Mandi,57,2026-03-10,High,Clear,Delhi
+Chili,Azadpur Mandi,54,2026-03-11,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,52,2026-03-12,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,59,2026-03-13,High,Clear,Delhi
+Chili,Azadpur Mandi,56,2026-03-14,High,Clear,Delhi
+Chili,Azadpur Mandi,53,2026-03-15,Medium,Rain,Delhi
+Chili,Azadpur Mandi,51,2026-03-16,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,58,2026-03-17,High,Clear,Delhi
+Chili,Azadpur Mandi,60,2026-03-18,High,Clear,Delhi
+Chili,Azadpur Mandi,57,2026-03-19,High,Clear,Delhi
+Chili,Azadpur Mandi,55,2026-03-20,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,52,2026-03-21,Medium,Rain,Delhi
+Chili,Azadpur Mandi,59,2026-03-22,High,Clear,Delhi
+Chili,Azadpur Mandi,61,2026-03-23,High,Clear,Delhi
+Chili,Azadpur Mandi,58,2026-03-24,High,Clear,Delhi
+Chili,Azadpur Mandi,56,2026-03-25,Medium,Cloudy,Delhi
+Chili,Azadpur Mandi,54,2026-03-26,Medium,Rain,Delhi
+Chili,Azadpur Mandi,60,2026-03-27,High,Clear,Delhi
+Chili,Azadpur Mandi,62,2026-03-28,High,Clear,Delhi
+Chili,Azadpur Mandi,59,2026-03-29,High,Clear,Delhi
+Chili,Azadpur Mandi,57,2026-03-30,Medium,Cloudy,Delhi
+Chili,Koyambedu Market,43,2026-03-01,Medium,Clear,Chennai
+Chili,Koyambedu Market,45,2026-03-02,Medium,Clear,Chennai
+Chili,Koyambedu Market,41,2026-03-03,Low,Cloudy,Chennai
+Chili,Koyambedu Market,47,2026-03-04,High,Clear,Chennai
+Chili,Koyambedu Market,49,2026-03-05,High,Clear,Chennai
+Chili,Koyambedu Market,44,2026-03-06,Medium,Rain,Chennai
+Chili,Koyambedu Market,40,2026-03-07,Low,Rain,Chennai
+Chili,Koyambedu Market,48,2026-03-08,High,Clear,Chennai
+Chili,Koyambedu Market,50,2026-03-09,High,Clear,Chennai
+Chili,Koyambedu Market,52,2026-03-10,High,Clear,Chennai
+Chili,Koyambedu Market,49,2026-03-11,Medium,Cloudy,Chennai
+Chili,Koyambedu Market,47,2026-03-12,Medium,Cloudy,Chennai
+Chili,Koyambedu Market,54,2026-03-13,High,Clear,Chennai
+Chili,Koyambedu Market,51,2026-03-14,High,Clear,Chennai
+Chili,Koyambedu Market,48,2026-03-15,Medium,Rain,Chennai
+Chili,Koyambedu Market,46,2026-03-16,Medium,Cloudy,Chennai
+Chili,Koyambedu Market,53,2026-03-17,High,Clear,Chennai
+Chili,Koyambedu Market,55,2026-03-18,High,Clear,Chennai
+Chili,Koyambedu Market,52,2026-03-19,High,Clear,Chennai
+Chili,Koyambedu Market,50,2026-03-20,Medium,Cloudy,Chennai
+Chili,Koyambedu Market,47,2026-03-21,Medium,Rain,Chennai
+Chili,Koyambedu Market,54,2026-03-22,High,Clear,Chennai
+Chili,Koyambedu Market,56,2026-03-23,High,Clear,Chennai
+Chili,Koyambedu Market,53,2026-03-24,High,Clear,Chennai
+Chili,Koyambedu Market,51,2026-03-25,Medium,Cloudy,Chennai
+Chili,Koyambedu Market,49,2026-03-26,Medium,Rain,Chennai
+Chili,Koyambedu Market,55,2026-03-27,High,Clear,Chennai
+Chili,Koyambedu Market,57,2026-03-28,High,Clear,Chennai
+Chili,Koyambedu Market,54,2026-03-29,High,Clear,Chennai
+Chili,Koyambedu Market,52,2026-03-30,Medium,Cloudy,Chennai
